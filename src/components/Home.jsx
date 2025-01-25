@@ -30,7 +30,7 @@ function Home() {
               to="home"
               smooth={true}
               duration={500}
-              className="cursor-pointer text-black font-bold text-sm md:text-lg"
+              className="cursor-pointer text-black font-bold text-sm md:text-lg font-OsnovaPro"
             >
               Home
             </Link>
@@ -44,7 +44,7 @@ function Home() {
               to="produtos"
               smooth={true}
               duration={500}
-              className="cursor-pointer text-black font-bold text-sm md:text-lg"
+              className="cursor-pointer text-black font-bold text-sm md:text-lg font-OsnovaPro"
             >
               Produtos
             </Link>
@@ -58,7 +58,7 @@ function Home() {
               to="contato"
               smooth={true}
               duration={500}
-              className="cursor-pointer text-black font-bold text-sm md:text-lg"
+              className="cursor-pointer text-black font-bold text-sm md:text-lg font-OsnovaPro"
             >
               Contato
             </Link>
