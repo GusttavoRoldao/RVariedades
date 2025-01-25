@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "OsnovaPro";
+  src: url("./fonts/OsnovaPro/OSNOVAPRO.TTF") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SansitaOne";
+  src: url("./fonts/SansitaOne/SANSITAONEREGULAR.TTF") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Mylierka";
+  src: url("./fonts/Mylierka/MYLIERKA-BLACK-2.TTF") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
